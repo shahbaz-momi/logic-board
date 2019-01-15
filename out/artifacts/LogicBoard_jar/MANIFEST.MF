@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Kotlin-Runtime-Component: Core
+Implementation-Title: Kotlin Runtime
+Kotlin-Version: 1.0
+Implementation-Version: 1.0.6
+Built-By: JetBrains
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Implementation-Vendor: JetBrains
+Class-Path: . ./ /
+Main-Class: BoardUIKt
